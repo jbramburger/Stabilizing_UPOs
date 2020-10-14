@@ -2,7 +2,7 @@ This repository contains the MATLAB files to reproduce the data and figures from
 
 The scripts associated to this repository are as follows:
 
-- Henon_control.m: Stabilizing cyclic orbits of the Henon mapping. Produces the figures presented in Section 4.1.
+- Henon_control.m: Stabilizing cyclic orbits of the Henon mapping. Produces the figures presented in Section 4.1. Imports the control matrices from Henon_control_matrices.mat.
 
 - Isolated_discovery.m: Mapping discovery for the isolated periodic orbit in Section 4.2.
 
