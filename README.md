@@ -16,6 +16,6 @@ The scripts associated to this repository are as follows:
 
 - Sprott_control.m: Simulates the controlled orbits of the Sprott system. Produces the figures in Section 4.4.
 
-- Satelite_discovery.m: Discovers a mapping near the Lagrange points in an Earth-moon restricted three-body problem. Produces the linearizations presented in Section 5.
+- Satellite_discovery.m: Discovers a mapping near the Lagrange points in an Earth-moon restricted three-body problem. Produces the linearizations presented in Section 5.
 
-- Satelite_control.m: Simulates the controlled orbits of satelites made to sit near the Lagrange points in an Earth-moon restricted three-body problem. Produces the figures in Section 5.
+- Satellite_control.m: Simulates the controlled orbits of satelites made to sit near the Lagrange points in an Earth-moon restricted three-body problem. Produces the figures in Section 5.
