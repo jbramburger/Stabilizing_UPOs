@@ -1,4 +1,4 @@
-This repository contains the MATLAB files to reproduce the data and figures from "Data-driven stabilization of periodic orbits" by Jason J. Bramburger, Steven L. Brunton, and J. Nathan Kutz (IEEE Access, 2021). Computations use the publicly available SINDy architecture found at https://faculty.washington.edu/kutz/page26/ and should be stored in a folder entitled 'Util'. 
+This repository contains the MATLAB files to reproduce the data and figures from [**Data-driven stabilization of periodic orbits**](https://arxiv.org/abs/2010.13896) by Jason J. Bramburger, Steven L. Brunton, and J. Nathan Kutz (IEEE Access, 2021). Computations use the publicly available SINDy architecture found at https://faculty.washington.edu/kutz/page26/ and should be stored in a folder entitled 'Util'. 
 
 The scripts associated to this repository are as follows:
 
@@ -19,3 +19,5 @@ The scripts associated to this repository are as follows:
 - Satellite_discovery.m: Discovers a mapping near the Lagrange points in an Earth-moon restricted three-body problem. Produces the linearizations presented in Section 5.
 
 - Satellite_control.m: Simulates the controlled orbits of satellites made to sit near the Lagrange points in an Earth-moon restricted three-body problem. Produces the figures in Section 5.
+
+A video abstract associated to this code and the corresponding paper is available at: https://www.youtube.com/watch?v=72MeRaNki8E
