@@ -1,4 +1,4 @@
-This repository contains the MATLAB files to reproduce the data and figures from "Data-driven stabilization of periodic orbits" by Jason J. Bramburger, Steven L. Brunton, and J. Nathan Kutz (2020). Computations use the publicly available SINDy architecture found at https://faculty.washington.edu/kutz/page26/ and should be stored in a folder entitled 'Util'. 
+This repository contains the MATLAB files to reproduce the data and figures from "Data-driven stabilization of periodic orbits" by Jason J. Bramburger, Steven L. Brunton, and J. Nathan Kutz (IEEE Access, 2021). Computations use the publicly available SINDy architecture found at https://faculty.washington.edu/kutz/page26/ and should be stored in a folder entitled 'Util'. 
 
 The scripts associated to this repository are as follows:
 
